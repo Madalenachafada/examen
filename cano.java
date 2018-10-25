@@ -73,10 +73,7 @@ public abstract class CosaMobil extends Cosa {
      *
      * @return la direcció en graus
      */
-    public final Direccio getDireccio() {
-        return direccio;
-    }
-
+  
     /**
      * Defineix una nova velocitat per l'objecte.
      *
